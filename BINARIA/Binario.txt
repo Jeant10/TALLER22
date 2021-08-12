@@ -1,0 +1,12 @@
+
+Elemento encontrado en la posición:1
+991577374155101286981152837415569778199101
+Elemento encontrado en la posicion:1
+991577374155101286981152837415569778199101
+Elemento encontrado en la posicion:1
+
+[4][2][7]
+
+[2][4][7]
+
+Elemento encontrado en la posicion:2
